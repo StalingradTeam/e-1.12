@@ -1,5 +1,3 @@
-            # E-1.12 #
-
 [![Travis][build-badge]][build]
 
 
