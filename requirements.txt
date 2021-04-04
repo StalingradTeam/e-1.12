@@ -1,0 +1,15 @@
+attrs
+coverage
+importlib-metadata
+iniconfig
+mock
+more-itertools
+packaging
+pluggy
+py
+pyparsing
+pytest
+pytest-cov
+six
+toml
+zipp
