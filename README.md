@@ -4,7 +4,7 @@
 
 
 [build-badge]: https://img.shields.io/travis/StalingradTeam/e-1.12/master.png?style=flat-square
-[build]: https://travis-ci.org/StalingradTeam/e-1.12
+[build]: https://www.travis-ci.com/StalingradTeam/e-1.12.svg?branch=main
 
 # ИГРА "Висилица" + тесты к ней
 
